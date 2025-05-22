@@ -1,0 +1,1 @@
+console.log("this is the class for Data structure and algorithm");
